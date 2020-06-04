@@ -43,7 +43,7 @@ public class TestThread02 extends Thread{
 //下载器
 class WebDonloader{
     //下载方法
-    public void downloader(String url, String name){
+    public void downloader(String url, String name){  //  下载图片的地址及下载至本地设置的文件名
         try {
             FileUtils.copyURLToFile(new URL(url), new File(name));
         } catch (IOException e) {

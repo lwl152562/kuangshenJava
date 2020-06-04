@@ -1,5 +1,3 @@
-
-
 package com.kuang.demo01;
 
 //创建线程方式2： 实现runnable接口，重写run方法，执行线程需要丢入runnable实现类，调用start方法
