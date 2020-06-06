@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxystatic/proxystatic.iml" filepath="$PROJECT_DIR$/proxystatic/proxystatic.iml" />
       <module fileurl="file://$PROJECT_DIR$/../JavaSE/基础语法/基础语法.iml" filepath="$PROJECT_DIR$/../JavaSE/基础语法/基础语法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/注解与反射/注解与反射.iml" filepath="$PROJECT_DIR$/注解与反射/注解与反射.iml" />
     </modules>
   </component>
 </project>
