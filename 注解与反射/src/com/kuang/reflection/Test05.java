@@ -6,6 +6,14 @@ public class Test05 {
     public static void main(String[] args) {
         A a = new A();
         System.out.println(A.m);
+
+        /*
+        1.加载到内存。产生一个类对应Class对象
+        2.链接，结束后m=0
+        3.初始化：
+
+         */
+
     }
 }
 
